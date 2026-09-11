@@ -11,8 +11,8 @@ require_once __DIR__ . '/src/CallingCardDirector.php';
 // Student data
 // ---------------------------------------------
 
-$firstName = "Juan";
-$lastName = "Dela Cruz";
+$firstName = "Jakov Benedict";
+$lastName = "Santos";
 
 $data = [
     'businessName' => 'College of Computing Studies',
